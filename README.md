@@ -1,11 +1,11 @@
-👋 Hey there, I'm Jake!
+# 👋 Hey there, I'm Jake!
 
-About Me:
+## About Me:
 * Studying: Electrical Engineering at the University of Waterloo.
 * Passions: Bringing ideas to life through coding and hardware projects.
 * Currently Learning: I am currently in my 1A Term at Waterloo.
 
-Skills & Expertise:
+## Skills & Expertise:
 * Languages: Python, Java, C++, HTML, CSS
 * Hardware: Raspberry Pi, Arduino
 * Software: PyCharm, DataSpell, IntelliJ IDEA, CLion, Visual Studio Code
@@ -14,5 +14,4 @@ On my learning path: React.js, React Native
 
 I'm always up for collaboration and interesting project ideas. If you have something in mind or want to discuss potential opportunities, feel free to connect!
 
-Get in Touch:
-Email: jrsimpso@uwaterloo.ca
+## Get in Touch: jrsimpso@uwaterloo.ca
