@@ -3,7 +3,7 @@
 #### About Me:
 * Studying: Electrical Engineering at the University of Waterloo.
 * Passions: Bringing ideas to life through coding and hardware projects.
-* Currently Learning: I am currently in my 1A Term at Waterloo.
+* Currently Learning: I am in my 1A Term at Waterloo.
 
 #### Skills & Expertise:
 * Languages: Python, Java, C++, HTML, CSS
