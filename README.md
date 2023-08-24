@@ -10,7 +10,7 @@
 * Hardware: Raspberry Pi, Arduino
 * Software: PyCharm, DataSpell, IntelliJ IDEA, CLion, Visual Studio Code
 
-####On my learning path: 
+#### On my learning path: 
 * React.js
 * React Native
 
