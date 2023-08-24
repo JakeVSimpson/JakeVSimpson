@@ -8,10 +8,7 @@ About Me:
 Skills & Expertise:
 * Languages: Python, Java, C++, HTML, CSS
 * Hardware: Raspberry Pi, Arduino
-* Tools & Frameworks:
-* Software: Git, PyCharm, DataSpell, IntelliJ IDEA, CLion, Visual Studio Code
-* Libraries: Pandas, Matplotlib
-* Web: Bootstrap
+* Software: PyCharm, DataSpell, IntelliJ IDEA, CLion, Visual Studio Code
 
 On my learning path: React.js, React Native
 
