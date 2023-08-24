@@ -18,6 +18,4 @@ On my learning path: React.js, React Native
 I'm always up for collaboration and interesting project ideas. If you have something in mind or want to discuss potential opportunities, feel free to connect!
 
 Get in Touch:
-LinkedIn: www.linkedin.com/in/jakersimpson
 Email: jrsimpso@uwaterloo.ca
-Personal Website: jakersimpson.com
