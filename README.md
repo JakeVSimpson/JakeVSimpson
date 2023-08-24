@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Jake!
+## 👋 Hey there, I'm Jake!
 
 #### About Me:
 * Studying: Electrical Engineering at the University of Waterloo.
