@@ -10,9 +10,6 @@
 * Hardware: Raspberry Pi, Arduino
 * Software: PyCharm, DataSpell, IntelliJ IDEA, CLion, Visual Studio Code
 
-#### On my learning path: 
-* React.js
-* React Native
 
 I'm always up for collaboration and interesting project ideas. If you have something in mind or want to discuss potential opportunities, feel free to connect!
 
