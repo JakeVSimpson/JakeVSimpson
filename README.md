@@ -6,7 +6,7 @@
 * Currently Learning: I am in my 1A Term at Waterloo.
 
 #### Skills & Expertise:
-* Languages: Python, Java, C++, HTML, CSS
+* Languages: Python, Java, C++
 * Hardware: Raspberry Pi, Arduino
 * Software: PyCharm, DataSpell, IntelliJ IDEA, CLion, Visual Studio Code
 
