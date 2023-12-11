@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jake
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Jake!
 ============================================================================================================================
 
 I'm an electrical engineering student at the University of Waterloo with a passion for new technologies such as fintech, cryptocurrency, and DeFi. I'm skilled in Python, C++, Solidity, HTML, CSS, and JavaScript, and using design tools like Figma and Webflow. I'm committed to staying at the forefront of innovation in emerging technologies. I enjoy learning new things and I'm always seeking to expand my knowledge.
