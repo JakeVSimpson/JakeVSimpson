@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 My name is Jake!
 ============================================================================================================================
 
-I'm an electrical engineering student at the University of Waterloo with a passion for new technologies such as fintech, cryptocurrency, and DeFi. I'm skilled in Python, C++, Solidity, HTML, CSS, and JavaScript, and using design tools like Figma and Webflow. I'm committed to staying at the forefront of innovation in emerging technologies. I enjoy learning new things and I'm always seeking to expand my knowledge.
+I'm an Electrical Engineering student with a passion for exploring technologies like Blockchain, Web3, and AI. I have technical proficiency in Python, C++, Solidity, Computer Networks, and Automation, and I'm driven to expand my knowledge in the evolving landscape of software and hardware.
 
 * 🌍  I'm based in Waterloo, Ontario
 * 🖥️  See my portfolio at [Personal Portfolio](http://jakersimpson.com)
