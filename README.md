@@ -1,5 +1,4 @@
-Hi
-My name is Jake!
+Hi, My name is Jake!
 ============================================================================================================================
 
 I'm an Electrical Engineering student with a passion for exploring technologies like Blockchain, Web3, and AI. I have technical proficiency in Python, C++, Solidity, Computer Networks, and Automation, and I'm driven to expand my knowledge in the evolving landscape of software and hardware.
